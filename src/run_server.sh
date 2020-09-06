@@ -1,0 +1,1 @@
+/Users/s3y3d3v/PycharmProjects/TableauDeBordDevise2/venv/bin/python  /Users/s3y3d3v/PycharmProjects/TableauDeBordDevise2/src/manage.py runserver
